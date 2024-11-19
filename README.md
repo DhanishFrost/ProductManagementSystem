@@ -6,8 +6,8 @@ Before you can run the Laravel application, ensure that you have the following s
 
 - **PHP** >= 7.3
 - **Composer** (PHP Dependency Manager)
-- **Node.js** and **npm** (for front-end dependencies)
-- **MySQL** or **SQLite** (or another database of your choice)
+- **npm** (for front-end dependencies)
+- **MySQL** (Database)
 
 ## Installation and Setup
 
