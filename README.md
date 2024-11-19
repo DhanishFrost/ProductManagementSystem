@@ -18,13 +18,13 @@ Before you can run the Laravel application, ensure that you have the following s
     ```
 
 2. **Install Neccessary Dependencies**:
-        ```bash
-       composer install
-       npm install
-       php artisan storage:link
-        ```
+   ```bash
+   composer install
+   npm install
+   php artisan storage:link
+   ```
 2. **Running the Application**:
-        ```bash
-       php artisan serve
-       npm run dev
-        ```
+   ```bash
+   php artisan serve
+   npm run dev
+   ```
