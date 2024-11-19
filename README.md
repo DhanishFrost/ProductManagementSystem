@@ -13,7 +13,7 @@ Before you can run the Laravel application, ensure that you have the following s
 
 1. **Clone the repository**:
     ```bash
-    https://github.com/DhanishFrost/ProductManagementSystem.git
+    git clone https://github.com/DhanishFrost/ProductManagementSystem.git
     cd ProductManagementSystem
     ```
 
