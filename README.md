@@ -4,7 +4,7 @@
 
 Before you can run the Laravel application, ensure that you have the following software installed:
 
-- **PHP** >= 7.3
+- **PHP**
 - **Composer** (PHP Dependency Manager)
 - **npm** (for front-end dependencies)
 - **MySQL** (Database)
@@ -21,6 +21,9 @@ Before you can run the Laravel application, ensure that you have the following s
    ```bash
    composer install
    npm install
+   cp .env.example .env
+   php artisan key:generate
+   php artisan migrate
    php artisan storage:link
    ```
 2. **Running the Application**:
